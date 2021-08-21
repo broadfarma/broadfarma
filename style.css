@@ -27,7 +27,7 @@ html {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #ffff17;
+  background: #E7D303;
 }
 
 body {
@@ -63,7 +63,6 @@ header {
 
 .menu a {
   text-decoration: none;
-  text-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
   color: #433D95;
   margin: 0 30px 0 30px;
 }
