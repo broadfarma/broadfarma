@@ -27,7 +27,7 @@ html {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #E7D303;
+  background: #EFD400;
 }
 
 body {
@@ -56,7 +56,7 @@ header {
   list-style: none;
   font-size: 2rem;
   font-weight: bold;
-  background-color: #E7D303;
+  background-color: #EFD400;
   cursor: default;
   box-shadow: 0 0 5px #000000DD;
 }
@@ -107,7 +107,7 @@ header {
 
 .image-section img {
   width: 700px;
-  background-color: #E7D303;
+  background-color: #EFD400;
   padding: 10px 20px 10px 20px;
   border-radius: 15px;
   box-shadow: 0 0 15px #000000dd;
@@ -140,11 +140,11 @@ header {
 }
 
 #important-information a {
-  color: #ffff17;
+  color: #EFD400;
 }
 
 #important-information a:visited {
-  color: #ffff17;
+  color: #EFD400;
 }
 
 #important-information strong {
@@ -163,7 +163,7 @@ header {
 .product {
   width: 350px;
   height: 350px;
-  background-color: #ffff17;
+  background-color: #EFD400;
   margin: 5px;
   overflow: hidden;
   border-radius: 5px;
@@ -245,7 +245,7 @@ footer {
 
 .location-container a:hover {
   transition: all 0.3s ease 0s;
-  background-color: #ffff17;
+  background-color: #EFD400;
   color: #FF0302;
 }
 
@@ -275,7 +275,7 @@ footer {
 
 .email-container a:hover {
   transition: all 0.3s ease 0s;
-  background-color: #ffff17;
+  background-color: #EFD400;
   color: #FF0302;
 }
 
