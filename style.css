@@ -65,6 +65,7 @@ nav {
 #contact-button a {
   background-color: #2AB200;
   color: #ffffff;
+  margin-left: 5px;
   padding: 2px 10px 2px 10px;
   border-radius: 10px;
   box-shadow: 0 0 2px #000000dd;
