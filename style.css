@@ -52,10 +52,9 @@ nav {
 .nav-links a {
   color: #433d95;
   text-decoration: none;
-  letter-spacing: 2px;
   font-weight: bold;
   font-size: 20px;
-  padding: 0 10px 0 10px;
+  padding: 0 15px 0 15px;
 }
 
 .nav-links a:hover {
