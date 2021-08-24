@@ -147,6 +147,7 @@ header img {
   background-color: #ff0302;
   color: #efd400;
   text-align: center;
+  text-shadow: 0 0 3px rgba(0,0,0,0.7);
 }
 
 #products h3 {
