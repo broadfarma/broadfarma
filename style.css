@@ -252,10 +252,6 @@ footer {
   color: #2E3092;
 }
 
-.location-container a:visited {
-  color: #2E3092;
-}
-
 .location-container img {
   width: 30px;
   position: relative;
@@ -279,10 +275,6 @@ footer {
 .email-container a:hover {
   transition: all 0.3s ease 0s;
   background-color: #EFD400;
-  color: #2E3092;
-}
-
-.email-container a:visited {
   color: #2E3092;
 }
 
@@ -406,6 +398,15 @@ footer {
     text-decoration: none;
     color: #FFFFFF;
     font-weight: bolder;
+  }
+  
+  .email-container {
+  padding: 20px 0 20px 0;
+  }
+
+  .email-container a {
+    font-size: 20px;
+    padding: 3px 10px 3px 10px;
   }
 
 }
