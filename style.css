@@ -25,6 +25,10 @@ html {
   background: #efd400;
 }
 
+#hidden-seo {
+  display: none;
+}
+
 body {
   font-family: sans-serif;
   overflow-x: hidden;
