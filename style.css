@@ -113,11 +113,11 @@ header img {
   background-color: #2E3092;
   color: white;
   font-size: 26px;
+  text-align: center;
 }
 
 #important-information h2 {
   margin-bottom: 50px;
-  text-align: center;
   font-size: 70px;
   font-family: Arial, Helvetica, sans-serif;
 }
